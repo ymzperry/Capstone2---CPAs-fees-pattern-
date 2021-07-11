@@ -1,4 +1,4 @@
-# Capstone2---CPAs-fees-pattern-
+# Capstone2---CPAs-fees-pattern
 Capstone project 2: Professional Certified Public Accountants working patterns 
 
 In this capstone project, I examine auditors’ (CPAs) patterns in charging professional services fees to their clients. Understanding such patterns by professional people is vital because fees billing by professional people is an effective surrogate to examine their input and work quality. The quality of certain types of professional work would have a significant spillover effect on the community and capital market. If the fees charged too low might harm the market competition, it appears to be suspicious of the project content if the fees are set abnormally too high. 
